@@ -1,4 +1,4 @@
-# cursor-gravity
+# ghostty-cursor-gravity
 
 A custom shader for Ghostty / Zonvie that warps surrounding text around your cursor, simulating gravitational lensing. When the cursor jumps, a quadrupole gravitational wave ring radiates outward.
 
